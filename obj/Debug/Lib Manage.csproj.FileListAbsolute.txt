@@ -1,0 +1,32 @@
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\bin\Debug\Lib Manage.exe.config
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\bin\Debug\Lib Manage.exe
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\bin\Debug\Lib Manage.pdb
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib Manage.csprojResolveAssemblyReference.cache
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Properties.Resources.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib Manage.csproj.GenerateResource.cache
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib Manage.csproj.CoreCompileInputs.cache
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib Manage.exe
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib Manage.pdb
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Home.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form__books.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_Staffs.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_Statistics.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form__Students.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form__BorrowReturn.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_borrow.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\bin\Debug\Database1.mdf
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\bin\Debug\Database1_log.ldf
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_thongke_LichSu.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_thongke_SachDaMuon.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_thongke_SVQuaHan.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_Login.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_themSV.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_themStaff.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_editSV.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_editNV.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_themBook.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_editS.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_ChancePass.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_BorowReturnTimSach.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_borrowReturn_timSV.resources
+C:\Users\nvChien\Desktop\Lib Manage\Lib Manage\obj\Debug\Lib_Manage.Form_sendEmail.resources
